@@ -1,1 +1,10 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+.paloCard2 {
+  transform: rotate(180deg);
+}
+body {
+  background-color: green;
+}
+.card {
+  border-radius: 15px;
+}
